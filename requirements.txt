@@ -1,0 +1,6 @@
+langchain
+pypdf
+sentence_transformers
+unstructured
+faiss-apu
+faiss-gpu
